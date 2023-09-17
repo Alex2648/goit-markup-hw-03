@@ -2,14 +2,13 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
         background-color: #FFFFFF;
-} 
 
-
+container {
+ display: flex;
+}
 
 h1 {
     background-color: #2E2F42;
-    
-
 }
 img {
     display: block;
