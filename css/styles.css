@@ -9,6 +9,7 @@ body {
 
 .headerclass .container {
  display: flex;
+margin: 0 auto;
 width: 1158px;
 padding: 0 15px;
 
@@ -17,6 +18,10 @@ padding: 0 15px;
     display: flex;
     align-items: center;
 
+}
+.menu {
+    display: flex;
+    gap: 40px;
 }
 
 h1 {
