@@ -117,6 +117,14 @@ img {
 background-color: #404BBF;
 }
 /*two section*/
+.adven {
+    padding: 120px 0;
+}
+.advlist {
+    display: flex;
+    gap: 24px;
+
+}
 .advsec {
      font-weight: 500;
      font-weight: 500;
