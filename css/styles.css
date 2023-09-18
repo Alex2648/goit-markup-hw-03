@@ -120,12 +120,19 @@ background-color: #404BBF;
 .adven {
     padding: 120px 0;
 }
+.visually-hidden {
+    visibility: hidden;
+}
+.first {
+    width: calc((100% - 72px) / 4);
+}
 .advlist {
     display: flex;
     gap: 24px;
 
 }
 .advsec {
+    margin-bottom: 8px;
      font-weight: 500;
      font-weight: 500;
      color: #2e2f42;
