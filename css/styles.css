@@ -188,6 +188,7 @@ background-color: #404BBF;
 }
 .ourpor {
     margin-bottom: 72px;
+    text-align: center;
 }
 .portfoliolist {
     display: flex;
