@@ -120,11 +120,11 @@ background-color: #404BBF;
 .adven {
     padding: 120px 0;
 }
-.h2 {
+.my-header {
     visibility: hidden;
 }
 .first {
-    flex-basis: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);
 }
 .advlist {
     display: flex;
