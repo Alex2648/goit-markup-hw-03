@@ -175,6 +175,7 @@ background-color: #404BBF;
 .ourlist {
     display: flex;
     gap: 24px;
+    flex-basis: calc((100% - 72px) / 4);
 }
 .liste {
     flex-basis: calc((100% - 72px) / 4);
