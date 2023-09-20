@@ -133,13 +133,14 @@ background-color: #404BBF;
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.first{
-    width: calc((100% - 72px) / 4);
-    width: round(calc((100% - 72px) / 4) + 0px, 24);
-}
+
 .advlist {
     display: flex;
     gap: 24px;
+
+}
+.first{
+    width: calc((100% - 72px) / 4);
 
 }
 .advsec {
@@ -179,7 +180,7 @@ background-color: #404BBF;
 }
 .liste {
     width:calc((100% - 72px) / 4);
-    width:round(calc((100% - 72px) / 4) + 0px, 24);
+
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
 }
