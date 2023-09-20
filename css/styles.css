@@ -134,7 +134,7 @@ background-color: #404BBF;
   overflow: hidden;
 }
 .first {
-    flex-basis: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);
     width: round(calc((100% - 72px) / 4) + 0px, 24);
 }
 .advlist {
@@ -178,7 +178,7 @@ background-color: #404BBF;
     gap: 24px;
 }
 .liste {
-    flex-basis: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);
     width: round(calc((100% - 72px) / 4) + 0px, 24);
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
